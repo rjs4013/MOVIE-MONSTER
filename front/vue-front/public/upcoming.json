@@ -1,0 +1,1060 @@
+[
+    {
+        "pk": 1371146,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1371146,
+            "title": "비틀즈 '64",
+            "release_date": "2024-11-28",
+            "popularity": 12.361,
+            "vote_avg": 0.0,
+            "description": "마틴 스코세이지와 데이빗 테데쉬가 비틀즈 4인방이 음악적 혁신을 이루고 상상을 초월하는 명성을 얻은 순간을 공개한다. 데이비드와 앨버트 메이즐스가 촬영한 비하인드 영상을 4K로 복원한 이 영화는, 비틀즈와 그들의 음악으로 삶이 변화된 팬들의 인터뷰 영상들을 통해 당시의 특별한 문화적 순간을 조명한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1vSmZvoEv4VQgw9WkjrbyGnmoKh.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/2vcdYHfEzzsTOM5p3mQ8hvxb97U.jpg",
+            "genres": [
+                "다큐멘터리",
+                "음악"
+            ],
+            "actors": [
+                "Paul McCartney",
+                "Ringo Starr",
+                "John Lennon",
+                "George Harrison",
+                "Martin Scorsese"
+            ],
+            "director": "David Tedeschi"
+        }
+    },
+    {
+        "pk": 1365044,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1365044,
+            "title": "스노우 시스터",
+            "release_date": "2024-11-28",
+            "popularity": 8.37,
+            "vote_avg": 0.0,
+            "description": "이제 곧 크리스마스이브다. 이날은 율리안이 열한 살이 되는 날이기도 하다. 생강 쿠키와 귤의 기분 좋은 냄새와 장작 타는 소리, 장식이 달린 크리스마스트리와 깜박거리는 촛불이 온 집안을 가득 채우는 일 년 중 최고의 날. 하지만 올해는 모든 것이 예전 같지 않다. 율리안과 가족들은 누나를 잃은 슬픔에 잠겨있고, 율리안은 크리스마스가 취소된 것 같은 기분이다. 그러던 어느 날, 율리안은 크리스마스를 사랑하는 행복한 소녀 헤드비그를 만나게 되고, 어쩌면 올해도 어김없이 크리스마스가 올 거라는 희망을 품기 시작한다. 그런데 헤드비그의 집에는 뭔가 이상한 구석이 있다. 게다가 늘 헤드비그의 집 주변을 맴도는 노인은 대체 누구일까?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pwovTYjTnWq5p8xdxdmCSTJh7yz.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/l52GhaCNUtuewffCndNNhGr3XzX.jpg",
+            "genres": [
+                "가족",
+                "드라마"
+            ],
+            "actors": [
+                "Mudit Gupta",
+                "Celina Meyer Hovland",
+                "Advika",
+                "Gunnar Eiriksson",
+                "Sampda Sharma",
+                "Jan Sælid",
+                "Ole Steinkjer Øyen"
+            ],
+            "director": "Cecilie A. Mosli"
+        }
+    },
+    {
+        "pk": 1134966,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1134966,
+            "title": "하이퍼보리안",
+            "release_date": "2024-11-28",
+            "popularity": 7.115,
+            "vote_avg": 0.0,
+            "description": "여배우이자 심리학자인 '안토니아'는 그녀의 환자 중 한 명의 마음속에서 들려온 목소리의 이야기를 영화로 만들기로 결심한다. 연극, SF, 애니메이션이 교차하는 작품으로, 신비한 평행 세계들로 가득 차 있다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dZRTvxHEagSkQn5CdgtTmqAu7Ze.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/ppGoaIgv7MZVcAqWy1cAdsOzbAn.jpg",
+            "genres": [
+                "애니메이션",
+                "SF",
+                "판타지"
+            ],
+            "actors": [
+                "Antonia Giesen",
+                "Fransisco Visceral Rivera",
+                "Jaime Vadell",
+                "Marcelo Liapiz",
+                "Álvaro Morales"
+            ],
+            "director": "Cristóbal León"
+        }
+    },
+    {
+        "pk": 1319763,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1319763,
+            "title": "요루시카 '달과 고양이의 댄스' 2024 라이브",
+            "release_date": "2024-11-29",
+            "popularity": 3.583,
+            "vote_avg": 0.0,
+            "description": "몇 년 동안 함께 살던 여자와 헤어져 바닷가 방에서 살고 있는 화가 남자. 며칠, 혹은 몇 달에 한 번씩 동물들이 그를 찾아온다. 어떤 때는 카나리아, 어떤 때는 개구리, 카멜레온, 토끼, 부엉이, 날벌레 ....... 달이 아름다운 밤, 옛날에 어떤 사람이 가르쳐 준, 유일하게 칠 수 있는 피아노곡 (베토벤, 피아노 소나타 14번)을 연주하던 그는 재미있는 사실을 발견한다. 동물들은 피아노를 치는 동안에만 기묘한 춤을 춘다는 사실을.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3RSZFKVOT5dx3trMr0fMRZxIR0o.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/1Vfp3p34XvfokxjOrzB4AbaLgeA.jpg",
+            "genres": [
+                "음악",
+                "다큐멘터리"
+            ],
+            "actors": [
+                "n-buna",
+                "suis"
+            ],
+            "director": "Azusa Fujikura"
+        }
+    },
+    {
+        "pk": 1391036,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1391036,
+            "title": "엘스타 2 : 드리미 스테이지",
+            "release_date": "2024-11-30",
+            "popularity": 2.744,
+            "vote_avg": 0.0,
+            "description": "게임 ‘엘소드’의 캐릭터들이 약 4년 반만에 더 화려해진 모습으로 돌아왔다. “엘리오스 아이돌 컴백 프로젝트, 엘스타 2” 컴백곡 무대, 후속곡 무대, 그리고 스페셜 무대까지, 시즌 1 이후 새롭게 합류한 멤버들과 함께 그간 기다려준 팬들에게 선사하는 다양한 무대. ‘엘소드’, ‘청’, ‘애드’, ‘노아’로 구성된 ‘트리니티에이스’, ‘아이샤’, ‘이브’, ‘루’, ‘라비’로 구성된 ‘메가 케이크’, ‘레이븐’, ‘시엘’, ‘아인’으로 구성된 ‘메이즈’, ‘레나’, ‘아라’, ‘엘리시스’, ‘로제’, ‘리티아’로 구성된 ‘얼터 크라운’, 16개의 빛나는 별, 하나가 된 별무리의 환상적인 꿈의 무대가 다시 펼쳐진다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uOxjWs9DgemKGAeJPJlIJpn2UAq.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "애니메이션",
+                "음악",
+                "판타지"
+            ],
+            "actors": [
+                "Jeong Yu-mi",
+                "Lee Ji-young",
+                "Jung Mi-sook",
+                "Park Seong-tae",
+                "Woo Jeong-sin",
+                "Yang Jeong-hwa",
+                "Yeo Min-jeong",
+                "Yoon Yeo-jin",
+                "Jeong Jae-heon",
+                "Kim Hyeon-ji"
+            ],
+            "director": ""
+        }
+    },
+    {
+        "pk": 1378973,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1378973,
+            "title": "짱뚱이네 똥황토",
+            "release_date": "2024-11-30",
+            "popularity": 0.001,
+            "vote_avg": 0.0,
+            "description": "짱뚱이네 진돗개 조남이가 귀여운 새끼 여섯 마리를 낳았어요. 그중 어미를 쏘옥 빼닮은 강아지 황토만 남기고 다른 강아지들은 뿔뿔이 헤어지게 되었어요. 황토는 밥 욕심도 많고, 갖가지 말썽을 일으키는 말썽쟁이지만… 짱뚱이에겐 둘도 없는 친구예요. 그러던 어느 날, 황토가 사라지고 마는데…….",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4Kukc5CqOeKSpIfKVQW4YhDIdhb.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/z3bBNYeMhtUOFlpF3tu03N9QQXl.jpg",
+            "genres": [
+                "애니메이션"
+            ],
+            "actors": [],
+            "director": "Park Jae-beom"
+        }
+    },
+    {
+        "pk": 1371007,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1371007,
+            "title": "인생세탁소",
+            "release_date": "2024-12-01",
+            "popularity": 2.393,
+            "vote_avg": 0.0,
+            "description": "도심 속 하군 해녀 옥희에게 어느 날 전 남편의 딸 은영이 찾아왔다. 빚쟁이들에게 쫓기는 아들 경식은 어린 손주, 준서를 맡기고 사라졌다. 잠시 머물기로 한 은영은 옥희의 사고와 의붓 조카 준서의 등장으로 떠날 때를 놓치고 옥희와 불편한 동거를 시작하게 된다. 딸의 양육권을 찾기 위해 돈이 절실한 은영은 아버지가 남긴 세탁소에 욕심이 생긴다. 세탁소를 새롭게 단장해 팔아넘기려는 은영과 전단지를 돌리며 세탁소를 지키려는 옥희는 삐거덕거리며 갈등한다. 작은 마을에 재개발 바람이 불어오고, 개발업자는 은영을 이용해 주변 상권을 개발하려 하지만 은영이 쉽게 넘어오지 않자 세탁소를 방해하며 위협하기 시작한다. 오래도록 묵혀둔 감정들까지 얽히고 설켜 서로를 속이며 궁지로 몰아넣는다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2BqKLcVNlwp5mPqRSG9wrPegfoQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/dDlgSQ9lun61H3HnaVN073ffu3S.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Moon Hee-kyung",
+                "Kang Jin-ah",
+                "Lee A-dam",
+                "Kim Yu-seok",
+                "Hyeon Dae-yeong"
+            ],
+            "director": "Moon Sook-hee"
+        }
+    },
+    {
+        "pk": 1378881,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1378881,
+            "title": "워킹트레일",
+            "release_date": "2024-12-01",
+            "popularity": 0.001,
+            "vote_avg": 0.0,
+            "description": "낮잠 시간에 동생 지지의 산책시키게 된 개구리 조는 동생을 데리고 공원에서 낮잠을 잔다. 그날 소나기가 내려 동생을 잃어버리자 공원에 버려진 아무 올챙이나 주워 집으로 향한다. 시간이 흐르고 가짜 동생이 뒷다리가 생길 즈음 진짜 동생 지지가 집으로 찾아온다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A43WK77nVfEw4rrD8PYaRtqheC5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "애니메이션"
+            ],
+            "actors": [],
+            "director": "Lee Heywon"
+        }
+    },
+    {
+        "pk": 714650,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 714650,
+            "title": "1승",
+            "release_date": "2024-12-04",
+            "popularity": 4.865,
+            "vote_avg": 0.0,
+            "description": "파직, 파면, 파산, 퇴출, 이혼까지 인생에서도 패배 그랜드슬램을 달성 중인 배구선수 출신 감독 우진은 해체 직전의 프로 여자배구단 핑크스톰의 감독을 맡아 달라는 제안을 받는다. 에이스 선수의 이적으로 이른바 떨거지 선수들만 남은 팀 핑크스톰은 새로운 구단주 정원의 등장으로 간신히 살아나지만 실력도, 팀워크도 이미 해체 직전 상태. 그 와중에 막장, 신파는 옵션, 루저들의 성장 서사에 꽂힌 정원은 핑크스톰이 딱 한번이라도 1승을 하면 상금 20억을 풀겠다는 파격 공약을 내세운다. 모두가 주목하는 구단이 됐지만 압도적인 연패 행진을 이어가는 핑크스톰. 패배가 익숙했던 우진도 점점 울화통이 치밀고, 경험도 가능성도 없는 선수들과 함께 단 한번만이라도 이겨보고 싶은 마음이 생기는데…",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73DhPoD9mpISSPBOu7KvHvW5AqP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/cEA0R4lWs3K5JNz19JmyGrt4hdD.jpg",
+            "genres": [
+                "드라마",
+                "코미디"
+            ],
+            "actors": [
+                "Song Kang-ho",
+                "Park Jeong-min",
+                "Jang Yoon-ju",
+                "Park Myung-hoon",
+                "Lee Min-ji",
+                "Cho Jung-seok",
+                "Kim Yeon-koung",
+                "Na Hyun-woo",
+                "Shin Yoon-ju"
+            ],
+            "director": "Shin Yeon-shick"
+        }
+    },
+    {
+        "pk": 1173733,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1173733,
+            "title": "세입자",
+            "release_date": "2024-12-04",
+            "popularity": 5.842,
+            "vote_avg": 0.0,
+            "description": "지독한 공기질과 살인적인 물가 월셋집에서 쫓겨날 처지의 ‘신동’은 궁여지책으로 화장실에 세입자를 들인다. 꿈에 그리던 신도시로의 이주 기회가 찾아와 집을 떠나야 하지만 수상한 세입자가 ‘신동’의 발목을 잡는다. 게다가 세입자가 불러들인 또 다른 천장 속 낯선 존재까지… “이런 게 진정한 윈윈 아니겠습니까?” 방구석에서 벗어나기 위한 세입자들의 반격이 시작된다!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bBuH3hWF7IICLYad5wnb6BftEKO.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/nU1oqBt6cbmUI23XTwZwzhxg5sN.jpg",
+            "genres": [
+                "코미디",
+                "공포",
+                "SF",
+                "판타지"
+            ],
+            "actors": [
+                "Kim Dae-gun",
+                "Heo Dong-won",
+                "Park So-hyun",
+                "Shin Hyeon-gyu",
+                "Son Cheol-min"
+            ],
+            "director": "Yoon Eun-kyoung"
+        }
+    },
+    {
+        "pk": 645985,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 645985,
+            "title": "소방관",
+            "release_date": "2024-12-04",
+            "popularity": 4.286,
+            "vote_avg": 0.0,
+            "description": "살리기 위해, 살아남기 위해 하루하루가 마지막 현장인 소방관 팀은 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표로 의기투합한다. 어느 날, 다급하게 119 신고 전화로 홍제동에 화재가 발생했다는 긴급 상황이 접수되자 팀원들은 위기를 직감하는데…",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5IOZuOmGvHMtRDIg9oTSeFN0qHH.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/cPuFlQnocTZ9UQNMiJ0pWiJKTOk.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Joo Won",
+                "Kwak Do-won",
+                "Yoo Jae-myung",
+                "Lee You-young",
+                "Kim Min-jae",
+                "Oh Dae-hwan",
+                "Lee Jun-hyuk",
+                "Jang Young-nam"
+            ],
+            "director": "Kwak Kyung-taek"
+        }
+    },
+    {
+        "pk": 1263188,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1263188,
+            "title": "언니 유정",
+            "release_date": "2024-12-04",
+            "popularity": 3.526,
+            "vote_avg": 0.0,
+            "description": "유정은 동생 기정이 고등학교 내 ‘영아 유기’ 사건의 당사자로 자백했다는 연락을 받는다. “너가 그런 게 맞아?” 수사가 시작되자 기정은 정작 입을 굳게 다물고, 유정은 기정의 침묵 속에서 홀로 고군분투 한다. 이 모든 것이 진짜 동생이 벌인 일인지, 그렇다면 왜 그랬는지 이해해 보려 하지만, 자매 사이에 벌어져 있는 간극만큼이나 진실은 아득하게 멀어 유정의 손에 잡히지 않는다. “기정이 단 거 별로 안 좋아해요” 한편 유정은 기정의 친구인 희진의 존재를 알게 되면서, 자신이 정작 동생에 대해 아무것도 알지 못하고 있었다는 사실을 깨닫게 된다. 과연 유정은 진실을 넘어 기정이 품은 진심을 마주하게 될까?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yhentArvdsuI8X8bj2qRgqPxJvA.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/wWeK2nkaORh1mBEptPuXevxqVBS.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Park Ye-yeong",
+                "Lee Ha-eun",
+                "Kim Yi-kyeong",
+                "Lee Chang-hoon",
+                "Park Jong-hwan",
+                "Han Hae-in"
+            ],
+            "director": "Chung Hae-il"
+        }
+    },
+    {
+        "pk": 1204884,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1204884,
+            "title": "원정빌라",
+            "release_date": "2024-12-04",
+            "popularity": 3.265,
+            "vote_avg": 0.0,
+            "description": "교외에 위치한 오래된 다세대 주택 원정빌라 203호에 사는 주현은 아픈 어머니와 조카를 돌보며 은행 경비 일과 공인중개사 시험을 병행하는 청년이다. 순한 성격으로 빌라의 모든 이웃들과 스스럼없이 지내지만, 이기적이고 무례한 위층(303호) 여자 신혜와는 주차 문제부터 층간 소음까지 사사건건 부딪힌다. 어느 날, 주현은 303호 우편함에만 불법 전단지를 꽂아 넣는 소심한 복수를 하고, 이는 뜻밖에 위층 여자의 광기를 건드리는 도화선이 되어 이웃은 물론 주현의 가족까지 위험에 빠트리게 된다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pr38YCSkYkGaQWddWZhGwF1SsKh.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/6DNDjd5ZAJfSo8j7k1j8YkOKgkh.jpg",
+            "genres": [
+                "스릴러",
+                "미스테리",
+                "공포"
+            ],
+            "actors": [
+                "Lee Hyun-woo",
+                "Moon Jeong-hee",
+                "Bang Min-ah",
+                "Seong Byeong-suk"
+            ],
+            "director": "Kim Seon-kuk"
+        }
+    },
+    {
+        "pk": 1280476,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1280476,
+            "title": "매혹의 선율: 미셸 르그랑",
+            "release_date": "2024-12-04",
+            "popularity": 4.708,
+            "vote_avg": 0.0,
+            "description": "<매혹의 선율: 미셸 르그랑>는 유명한 재즈 음악가이자 영화 작곡가인 미셸 르그랑의 매혹적인 초상을 그린 작품이다. 슈퍼 8 필름으로 촬영된 개인 소장 아카이브를 사용한 이 영화는 그의 삶의 마지막 2년으로 관객을 안내해 파리, 모스크바, 우치 등의 도시에서 열린 주요 행사의 순간들을 보여준다. 영화는 미셸 르그랑이 동료, 친구, 아내와 함께한 친밀한 순간뿐만 아니라 작곡에 몰두하는 고독한 순간도 함께 담는다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tAeHKEDC1jeoJ1WcK8MLkPFXlm2.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/5tsdin7ddHvYYXtrzicAzcWl5GJ.jpg",
+            "genres": [
+                "다큐멘터리",
+                "음악"
+            ],
+            "actors": [
+                "Michel Legrand"
+            ],
+            "director": "David Hertzog Dessites"
+        }
+    },
+    {
+        "pk": 1001753,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1001753,
+            "title": "100,000,000,000,000",
+            "release_date": "2024-12-04",
+            "popularity": 5.915,
+            "vote_avg": 0.0,
+            "description": "줄리아의 방에서 그들은 밤새도록 이야기를 나눴다. 그녀는 친구 아피네에게 궁전과 성, 다이아몬드, 그리고 자기가 본 금에 관한 이야기를 들려준다. 죽음 이후에 일어나는 일들에 대해서도 이야기했다. 아피네는 이전에 들어본 적 없는 이 모든 이야기들에 완전히 매료된다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Ag9sG2b8ZxoXCGt0p8aj2Dw5hu.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/pExdpliojm536KKiVIs3sJRZ98j.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Zakaria Bouti",
+                "Mina Gajovic",
+                "Luna Depuydt Song",
+                "Victoire Kong"
+            ],
+            "director": "Virgil Vernier"
+        }
+    },
+    {
+        "pk": 1374683,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1374683,
+            "title": "루프",
+            "release_date": "2024-12-04",
+            "popularity": 2.819,
+            "vote_avg": 0.0,
+            "description": "고등학생 ‘진수’가 사망하는 사건이 벌어진다. 다음 날, 소식을 듣고 쓰러진 친구 ‘세종’. 그러나 다시 눈을 떴을 때 오늘은 어제가 되어 있었다. 예정된 미래, 반복되는 하루 속에서 ‘세종’은 ‘진수’를 구하기 위해 몸부림 치는데… 과연 ‘세종’은 ‘진수’와 함께 내일을 맞이할 수 있을까?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gfOg40gtaU5MnlXOSHLB6Pp0CVQ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Lee Hyo-je",
+                "Jung Ji-hoon",
+                "Yu Sin",
+                "Choi Yong-wook",
+                "Sung Do-hyun",
+                "Kim Si-won"
+            ],
+            "director": "Koo Sang-beom"
+        }
+    },
+    {
+        "pk": 1387750,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1387750,
+            "title": "플레이브 팬 콘서트 ‘헬로, 아스테룸!’ 앙코르 인 시네마",
+            "release_date": "2024-12-04",
+            "popularity": 2.671,
+            "vote_avg": 0.0,
+            "description": "버추얼 아이돌의 새로운 길을 열다, 플레이브! 데뷔 후 전 세계 팬들의 사랑을 받아온 플레이브의 첫 번째 팬콘서트가 스크린에서 펼쳐진다! 다섯 ‘외계인’ 플레이브가 선사하는 다른 차원의 시청각적 경험! ‘기다릴게’, ‘여섯 번째 여름’, ‘WAY 4 LUV’ 등 플레이브의 히트곡과 함께 ‘아스테룸’ 접속! 버추얼 아이돌만이 선보일 수 있는 독창적인 세계관과 다채로운 퍼포먼스 팬들과 하나 되어 호흡한 그날의 특별한 순간을 더 크고 선명한 스크린으로 만난다! 현장의 폭발적인 열기 속 '플리’와 공명하던 그 때의 전율, 더 가까이에서, 더 생생하게 플레이브의 진심을 느낄 수 있는 기회! 플레이브의 성공적인 행보를 응원해준 ‘플리’에게 감사하는 마음을 담아 더 큰 사랑으로 응답하다. 2024년을 마무리하며 플레이브가 팬들에게 건네는 마지막 선물! 우리의 여정이 시작된 그날부터, 찬란하게 빛날 미래까지 \"너의 곁에 내가 숨쉴 수 있길\"",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tFYx5V4DOn1N79VCWjQ7hXRY9SA.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "음악",
+                "다큐멘터리",
+                "애니메이션"
+            ],
+            "actors": [
+                "Yejun",
+                "Noah",
+                "Bamby",
+                "Eunho",
+                "Hamin"
+            ],
+            "director": ""
+        }
+    },
+    {
+        "pk": 1326110,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1326110,
+            "title": "더 영 맨 앤드 더 딥 씨(비투비 임현식)",
+            "release_date": "2024-12-04",
+            "popularity": 2.113,
+            "vote_avg": 0.0,
+            "description": "아이돌 비투비(BTOB)의 멤버이자 솔로 아티스트인 임현식이 뮤직비디오 촬영을 위해 남태평양으로 떠난다. 악천후가 예고된 상황 속에서 과연 뮤직비디오 촬영은 무사히 끝날 수 있을까? 아름다운 남태평양을 배경으로 펼쳐지는 예측불허 뮤직비디오 촬영기.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8wSJ7Yh4D6wfZsq1ZN1V0VqIadd.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/anwz3DTwBEkwytw6S4ol8DjIleq.jpg",
+            "genres": [
+                "다큐멘터리",
+                "음악"
+            ],
+            "actors": [
+                "Im Hyun-sik",
+                "Kwon Jin-mo"
+            ],
+            "director": "Kwon Jin-mo"
+        }
+    },
+    {
+        "pk": 1390596,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1390596,
+            "title": "투모로우바이투게더 : 하이퍼포커스 인 시네마",
+            "release_date": "2024-12-04",
+            "popularity": 1.646,
+            "vote_avg": 0.0,
+            "description": "투모로우바이투게더와 함께하는 더욱 강렬해진 여정! ‘하이퍼포커스 : 투모로우바이투게더 브이알 콘서트’가 SCREENX와 4DX로 돌아왔다! 이번에는 기존의 감동을 넘어, SCREENX와 4DX 포맷을 통해 한층 더 몰입감 있는 체험이 가능하다. SCREENX의 확장된 화면과 4DX의 실감나는 효과는 관객을 마치 콘서트 현장에 있는 듯한 생생한 체험으로 이끈다. 팬들을 위한 선물 같은 이 콘서트에서는 ‘Sugar Rush Ride’, ‘Deja Vu’ 등의 대표곡을 비롯해, 멤버들의 독보적인 매력과 강렬한 퍼포먼스가 눈앞에서 펼쳐진다. 투모로우바이투게더의 무대를 더 큰 스케일과 생동감으로! ‘TOMORROW X TOGETHER : HYPERFOCUS IN CINEMAS‘ 다시 한번, 너와 함께 꿈꾸는 내일로 향하는 여정이 시작된다!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ifPkeaoyAv5iRO4pZgOTRnFZHFE.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "음악",
+                "판타지",
+                "다큐멘터리"
+            ],
+            "actors": [
+                "Soobin",
+                "Yeonjun",
+                "Beomgyu",
+                "Taehyun",
+                "HueningKai"
+            ],
+            "director": "Kim Kyung-kuk"
+        }
+    },
+    {
+        "pk": 1346709,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1346709,
+            "title": "알엠: 라이트 피플, 롱 플레이스",
+            "release_date": "2024-12-05",
+            "popularity": 5.997,
+            "vote_avg": 0.0,
+            "description": "“RM 혹은 김남준이라는 사람이 어디까지 솔직할 수 있을까?” 슈퍼스타 방탄소년단의 리더이자 솔로 아티스트 RM, 그리고 인간 김남준 사이에서 ‘진짜 나는 어떤 사람인가’를 고민한 그는 두 번째 솔로 앨범 'Right Place, Wrong Person'을 통해 낯선 감정들과 이야기를 솔직하게 털어놓았다. “내가 나로서 있는 느낌이 아주 오랜만에 든 것 같아” 2023년의 그가 몰두하고, 사유하고, 사랑했던 모든 것들. RM 혹은 김남준이 문을 열고 처음으로 관객에게 말을 건넨다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vPjIPMY00CESoQJtDIB4FN4vcM1.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/v0NneCkonhcqX9DG5Vij0w4jigu.jpg",
+            "genres": [
+                "다큐멘터리",
+                "음악"
+            ],
+            "actors": [
+                "RM"
+            ],
+            "director": "Lee Seok-jun"
+        }
+    },
+    {
+        "pk": 1243381,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1243381,
+            "title": "마리아",
+            "release_date": "2024-12-05",
+            "popularity": 6.329,
+            "vote_avg": 0.0,
+            "description": "기적의 동정 잉태. 목숨을 빼앗으려는 무자비한 왕의 추적. 아기 예수를 무사히 낳기 위한 마리아의 용감한 여정이 펼쳐진다. 성서 시대를 배경으로 마리아의 성장 스토리를 그린 시대극.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qLeylh7WLmRNcMW3yuMaMLQG0RX.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/sQKPoTdrq7bjeP7plWnbrEuskHr.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Anthony Hopkins",
+                "Noa Cohen",
+                "Ido Tako",
+                "Mili Avital",
+                "Stephanie Nur",
+                "Eamon Farren",
+                "Soufiane El Khalidy",
+                "Hilla Vidor",
+                "Gudmundur Thorvaldsson",
+                "Ori Pfeffer"
+            ],
+            "director": "D. J. Caruso"
+        }
+    },
+    {
+        "pk": 1191611,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1191611,
+            "title": "엄마랑 캠프라니!",
+            "release_date": "2024-12-05",
+            "popularity": 7.0,
+            "vote_avg": 0.0,
+            "description": "홀로 아들을 키우는 극성맞은 싱글 맘. 아들의 방학 캠프 여행이 출발부터 차질을 빚자 직접 버스 기사로 나선다. 위기에 빠진 캠프도 구하고 아들에게 멋진 엄마의 모습도 보여줄 수 있을까?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kUf6RteeFJfSChorWxVvhU7B1x2.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/uaZxczvaD78UzLCgzHhMHnIXI72.jpg",
+            "genres": [
+                "코미디",
+                "로맨스"
+            ],
+            "actors": [
+                "Natalia Oreiro",
+                "Guillermo Francella",
+                "Andrea Frigerio",
+                "Pablo Rago",
+                "Sofía Morandi",
+                "Dalia Gutmann",
+                "Milo Zeus Lis",
+                "Sebastián Arzeno"
+            ],
+            "director": "Martino Zaidelis"
+        }
+    },
+    {
+        "pk": 1220036,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1220036,
+            "title": "폴 포트 댄싱",
+            "release_date": "2024-12-05",
+            "popularity": 2.845,
+            "vote_avg": 0.0,
+            "description": "캄보디아 왕실의 스타 무용수는 남편의 동생을 친아들처럼 귀하게 키운다. 수십 년이 지나 크메르루즈 치하의 강제 노동자가 된 그녀는 자신의 양아들이 독재자 폴 포트임을 알게 된다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/G9nWIeL3LV95CphE6e02DZdreK.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "다큐멘터리"
+            ],
+            "actors": [],
+            "director": "Enrique Sánchez Lansch"
+        }
+    },
+    {
+        "pk": 1170283,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1170283,
+            "title": "비지터",
+            "release_date": "2024-12-05",
+            "popularity": 3.805,
+            "vote_avg": 0.0,
+            "description": "런던 유산계급 가정의 하인이 되는 한 망명자에 주목하면서, 영화는 여전히 우리를 지배하는 가부장적 가족 질서와 자본주의, 식민주의, 인종주의에 정면으로 도전하기 시작한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tGz42OMvhWLqGn1ROXADtMjbYWy.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/q17PyX1wXBu2cbuOFJL2jzKRa5Y.jpg",
+            "genres": [
+                "코미디"
+            ],
+            "actors": [
+                "Bishop Black",
+                "Amy Kingsmill",
+                "Macklin Kowal",
+                "Ray Filar",
+                "Kurtis Lincoln",
+                "Luca Federici",
+                "John Foley",
+                "Adrian Bracken",
+                "Léolo",
+                "Mathieu Morel"
+            ],
+            "director": "Bruce LaBruce"
+        }
+    },
+    {
+        "pk": 1061699,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1061699,
+            "title": "6888 중앙우편대대",
+            "release_date": "2024-12-06",
+            "popularity": 12.223,
+            "vote_avg": 0.0,
+            "description": "제2차 세계대전 중, 미 육군의 유일한 흑인 여성 대대가 불가능에 가까운 임무를 수행한다. 타일러 페리가 실화를 바탕으로 연출한 드라마 영화.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1xbRMi4HZuogzHUF3PdNUhuz8yW.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/8oClZvjAHwq0geciSIMDVmRtzjN.jpg",
+            "genres": [
+                "드라마",
+                "전쟁"
+            ],
+            "actors": [
+                "Kerry Washington",
+                "Sam Waterston",
+                "Susan Sarandon",
+                "Oprah Winfrey",
+                "Ebony Obsidian",
+                "Milauna Jackson",
+                "Kylie Jefferson",
+                "Shanice Shantay",
+                "Sarah Jeffery",
+                "Pepi Sonuga"
+            ],
+            "director": "Tyler Perry"
+        }
+    },
+    {
+        "pk": 1358820,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1358820,
+            "title": "넌센스 크리스마스 쇼: 사브리나 카펜터",
+            "release_date": "2024-12-06",
+            "popularity": 6.686,
+            "vote_avg": 0.0,
+            "description": "팝 아이콘 사브리나 카펜터의 첫 음악 버라이어티 쇼. 크리스마스 히트곡과 허를 찌르는 듀엣, 코믹한 카메오로 풍성하게 채워 크리스마스 분위기를 흠뻑 선사한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/gy3sRRZkeCGzjTxumekjISD2lKC.jpg",
+            "genres": [
+                "음악"
+            ],
+            "actors": [
+                "Sabrina Carpenter",
+                "Chappell Roan",
+                "Tyla",
+                "Kali Uchis",
+                "Shania Twain",
+                "Nico Hiraga",
+                "Quinta Brunson",
+                "Cara Delevingne",
+                "Kyle Mooney",
+                "Jillian Bell"
+            ],
+            "director": "Sam Wrench"
+        }
+    },
+    {
+        "pk": 612565,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 612565,
+            "title": "거친 녀석들: 히틀러 암살단",
+            "release_date": "2024-12-06",
+            "popularity": 4.637,
+            "vote_avg": 0.0,
+            "description": "제2차 세계대전이 끝나갈 무렵, 나치 과학자들은 최후의 반격 작전으로 미국 뉴욕을 좀비로 뒤덮으려는 비밀 연구를 실행하기 위한 필사의 계획을 수립한다. 하지만 연합군은 나치의 위험한 계획이 있음을 감지하고 이를 저지할 수 있는 특공대를 소집한다. 그 중 최고의 대원이 바로 딕 다이너마이트이다. 나치 학살은 그의 즐거움인 동시에 호황인 사업이다. 1944년은 바로 그 사업이 절정이 다다른 해였다. 제정신 아닌 특공대의 미친 나치 살육전이 펼쳐진다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eiX9twKa4ODY2uOowt2pVlNqEE.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/w1ShOXPKvzdgN0aecgYRA74Y6b9.jpg",
+            "genres": [
+                "액션",
+                "코미디",
+                "모험",
+                "전쟁",
+                "공포"
+            ],
+            "actors": [
+                "Gary Snars Allan",
+                "Olly Bassi",
+                "Shaun Davidson",
+                "Valerie Birss",
+                "Scottie David",
+                "Andy Moore",
+                "Irvine Welsh",
+                "Alec Westwood",
+                "Marrakesh De Burdette",
+                "David R. Montgomery"
+            ],
+            "director": "Robbie Davidson"
+        }
+    },
+    {
+        "pk": 539972,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 539972,
+            "title": "크레이븐 더 헌터",
+            "release_date": "2024-12-11",
+            "popularity": 108.731,
+            "vote_avg": 0.0,
+            "description": "죽음의 문턱에서 맹수의 초인적인 힘을 얻고 살아 돌아온 크레이븐이 무자비한 복수의 길을 택하며 거침없는 사냥을 펼치는 액션 블록버스터",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bA45ooXcp2B2qnMePfZ9QDL4wR5.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/1ulX4rDlS97lbDi929PUrEi507V.jpg",
+            "genres": [
+                "액션",
+                "모험",
+                "스릴러"
+            ],
+            "actors": [
+                "Aaron Taylor-Johnson",
+                "Russell Crowe",
+                "Ariana DeBose",
+                "Fred Hechinger",
+                "Alessandro Nivola",
+                "Christopher Abbott",
+                "Levi Miller"
+            ],
+            "director": "J.C. Chandor"
+        }
+    },
+    {
+        "pk": 1063738,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1063738,
+            "title": "화이트 리버",
+            "release_date": "2024-12-11",
+            "popularity": 19.529,
+            "vote_avg": 0.0,
+            "description": "베이징의 '베드 타운' 도시 '얀자오'를 배경으로 펼쳐지는 서로에게 얽매인 세 사람의 적나라한 사랑이야기. 베이징의 '베드 타운'이라 불리는 도시 얀자오에 사는 여성 '양 판'. 그녀는 관음증 환자인 남편 '위엔 용'과 레스토랑 종업원 '시아오팡'과 위태로운 인연을 맺는다. 서로 얽매여 있고, 누구 하나 떨어질 수 없는 그들은 흐트러져가는 일상을 서서히 받아들이기 시작한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sQrbJpsyuC8gn5rWpVnCAbsmY53.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/zDBpJfzfXnNtd5tvAa0GssNXaA9.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Tian Yuan",
+                "Song Ningfeng",
+                "Xu Weihao",
+                "Zhang Wenmo",
+                "Zuo Xiaoguang",
+                "Lu Mianda",
+                "Shi Yongjia",
+                "Zhuang Ran",
+                "Li Donghe",
+                "Li Wei"
+            ],
+            "director": "Ma Xue"
+        }
+    },
+    {
+        "pk": 1064205,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1064205,
+            "title": "대가족",
+            "release_date": "2024-12-11",
+            "popularity": 5.702,
+            "vote_avg": 0.0,
+            "description": "자수성가 맛집의 근본, SNS 없던 시절부터 줄 서 먹던 노포 맛집 평만옥의 사장 무옥은 대를 이을 줄 알았던 외아들 문석이 승려가 되어 출가한 이후 근심이 깊어 간다. 자신의 대에서 끊겨버릴 예정인 가문을 걱정하던 가운데 어느 날, 평만옥에 문석이 자신의 아빠라며 방문한 어린 손님들! 끊길 줄 알았던 가문의 대를 잇게 생긴 무옥은 난생 처음 맛보는 행복을 느끼고 문석은 승려가 되기 이전의 과거를 되짚다 그만 충격적인 사실을 알게 되는데…",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9PNcTHx1TiESlzqmgjHKgpy2ARP.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/qdl3SlctJM72sUbv8zo2UjHoIpv.jpg",
+            "genres": [
+                "드라마",
+                "코미디"
+            ],
+            "actors": [
+                "Kim Yun-seok",
+                "Lee Seung-gi",
+                "Kim Sung-ryung",
+                "Kang Han-na",
+                "Sim Hee-seop",
+                "Yoon Chae-na"
+            ],
+            "director": "Yang Woo-seok"
+        }
+    },
+    {
+        "pk": 1390590,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1390590,
+            "title": "엔시티 드림 미스터리 랩: 드림 이스케이프 인 시네마",
+            "release_date": "2024-12-11",
+            "popularity": 2.847,
+            "vote_avg": 0.0,
+            "description": "NCT DREAM의 세 번째 월드 투어 ‘THE DREAM SHOW 3 : DREAM( )SCAPE’. 전 세계를 펄 네오 샴페인 빛으로 물들인 서막이 스크린에서 다시 펼쳐진다! 꿈을 향한 여정에서 마주하는 성장의 비밀을 풀어가며 서로에게 위로의 처방전을 건네는 특별한 실험실, 미스터리 랩의 비밀이 풀린다. 그들의 청춘으로 빛났던 환상적인 무대와 치열하게 준비했던 열정 가득한 비하인드까지. 그들의 꿈을 향한 탈출과 새로운 여정의 시작을 알리는 무대.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gBIxYqWigRxn0AnqLlbb2ZKVFjs.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "음악",
+                "다큐멘터리"
+            ],
+            "actors": [
+                "Mark Lee",
+                "Renjun",
+                "Jeno",
+                "Haechan",
+                "Jaemin",
+                "Chenle",
+                "Jisung"
+            ],
+            "director": "Oh Yun-dong"
+        }
+    },
+    {
+        "pk": 1391032,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1391032,
+            "title": "김범수 25주년 콘서트 필름 : 여행",
+            "release_date": "2024-12-11",
+            "popularity": 2.229,
+            "vote_avg": 0.0,
+            "description": "폭발적인 가창력과 감수성으로 국내 대표 보컬리스트로 자리매김한 김범수. ‘보고 싶다’, ‘끝사랑’, ’하루’, ’슬픔활용법’, ‘지나간다’, ‘나타나’ 등 가슴을 울리는 명곡들이 알려주는 여행 지침서. 여기에 감각적인 미디어아트가 가미된 무대부터 오직 영화에서만 볼 수 있는 XR 스페셜 스테이지까지! 그의 노래와 함께 떠나는 특별한 여행, 지금 떠날 준비 되셨나요?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7reKcQEwvy4s5bVo4cAuw90VppI.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500None",
+            "genres": [
+                "음악",
+                "다큐멘터리"
+            ],
+            "actors": [
+                "Kim Bum-soo"
+            ],
+            "director": ""
+        }
+    },
+    {
+        "pk": 1391607,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1391607,
+            "title": "퍼스트레이디",
+            "release_date": "2024-12-12",
+            "popularity": 1.829,
+            "vote_avg": 0.0,
+            "description": "돋보이고 싶은 욕심에 학력과 경력을 부풀리고 논문 표절 의혹에 휩싸인 대한민국 대통령 영부인. 숱한 무속인 관련설, 대통령실과 공관 이전 논란, 국정개입을 넘어선 공동정권설, 과거 저지른 사문서 위조와 주가조작 연루 사건, 고가의 디올백 수수, 양평고속도로 노선 변경, 민간인 국정 개입 의혹 등 다이내믹한 대한민국의 영부인의 실체적 이야기를 다룬 용산 VIP를 둘러싼 문제적 다큐멘터리 영화",
+            "poster_url": "https://image.tmdb.org/t/p/w500/65rnHgm1Rw44h4mNEPQG44RPxIF.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/AwmlV3J1IBSSoHDXZJ1zomfbf9z.jpg",
+            "genres": [
+                "다큐멘터리"
+            ],
+            "actors": [
+                "Choi Jae-young",
+                "Lee Myung-soo"
+            ],
+            "director": "Aemong"
+        }
+    },
+    {
+        "pk": 1005331,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1005331,
+            "title": "캐리온",
+            "release_date": "2024-12-13",
+            "popularity": 52.945,
+            "vote_avg": 0.0,
+            "description": "미국 교통안전청의 한 젊은 직원이 의문의 여행객으로부터 협박을 받는다. 크리스마스이브의 항공기에 위험한 수화물을 실으라는 것인데. 이에 직원은 협박범보다 한 수 앞지르기 위해 분투한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2mvWssbFUklZabYb5BLqftpKeBC.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/tFfhwSi52xahVQ764dciqwitKiJ.jpg",
+            "genres": [
+                "액션",
+                "스릴러",
+                "미스테리"
+            ],
+            "actors": [
+                "Taron Egerton",
+                "Jason Bateman",
+                "Sofia Carson",
+                "Danielle Deadwyler",
+                "Dean Norris",
+                "Sinqua Walls",
+                "Logan Marshall-Green",
+                "Theo Rossi",
+                "Josh Brener",
+                "Tonatiuh Elizarraraz"
+            ],
+            "director": "Jaume Collet-Serra"
+        }
+    },
+    {
+        "pk": 947595,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 947595,
+            "title": "락 바텀",
+            "release_date": "2024-12-13",
+            "popularity": 3.372,
+            "vote_avg": 0.0,
+            "description": "매일 약에 취해 창작하고 사랑을 나누는 게 당연하던 두 젊은 예술가 밥과 알리프. 하늘과 바다, 햇살과 폭우 등 자신들을 둘러싼 천혜의 자연을 온 몸으로 느끼며 둘은 서로의 사랑에 몰두한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ZDzGsPZEGsLwDeBQBb8omTQyDk.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/AtGTnM5gKIGSDot4aemcd3Ocxjj.jpg",
+            "genres": [
+                "애니메이션",
+                "드라마",
+                "음악"
+            ],
+            "actors": [
+                "Laura Casaña",
+                "Fermí Delfa",
+                "Omar Sanchís Gomez",
+                "Roger Riu Gasso",
+                "Lisa Reventós Papo",
+                "Daniel Masalles"
+            ],
+            "director": "María Trénor"
+        }
+    },
+    {
+        "pk": 1219588,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1219588,
+            "title": "낭떠러지",
+            "release_date": "2024-12-13",
+            "popularity": 2.747,
+            "vote_avg": 0.0,
+            "description": "라파라 건물에 드나들려면 인간의 눈으로는 볼 수 없는 문 한 짝을 지나야 한다. 다미안은 충성심이 승리하는 한 텔레비전 쇼에 참가한다. 셔츠에 이름표를 단 채 그린스크린 앞에 선 다미안. 프로그램이 광고로 전환되면 이야기는 시작한다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mKQxGxkMPBlmrtQsQybjdUIff9z.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/1pSJeh5OMemxn4P5yoFybjgTjbu.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Alfonso Míguez",
+                "Pilar Souto",
+                "Lorena Iglesias",
+                "Emilio Buale"
+            ],
+            "director": "Alberto Gracia"
+        }
+    },
+    {
+        "pk": 1351031,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1351031,
+            "title": "아이누 푸리",
+            "release_date": "2024-12-14",
+            "popularity": 1.51,
+            "vote_avg": 0.0,
+            "description": "홋카이도 시라누카 출신의 아이누 원주민인 시게는 열 살 난 아들 모토키와 함께 작살 낚시에 나선다. 자연만물에 깃든 신에게 기도한 다음, 물결을 가르는 간결한 손길 끝에 달려 나온 커다란 연어 한 마리를 제 손으로 다듬어 그날의 저녁밥상을 차리는, 시게 가족의 일상이 세밀하게 구성된 극영화처럼 펼쳐진다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j67mhlg5TN2uCXUGwW0S8CpmVOJ.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/pRmyFgGt6sLR0NzZCVpq7IfFesq.jpg",
+            "genres": [
+                "다큐멘터리"
+            ],
+            "actors": [],
+            "director": "Takeshi Fukunaga"
+        }
+    },
+    {
+        "pk": 957218,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 957218,
+            "title": "섬.망(望)",
+            "release_date": "2024-12-17",
+            "popularity": 1.615,
+            "vote_avg": 0.0,
+            "description": "사람들이 하나둘 멈추어 가는 세상에서, 은애는 강아지 몽이와 떠돌아다니고 있다. 멈춘 거리를 돌아다니던 그녀는 어릴 적 기억과 마주하고, 한 폐허에서 멈추지 않은 채 은애를 기다리는 한 남자를 만나게 된다.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bYy1gDlW4CGgqbtDhQD3EynIlBN.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/5XaRu3Fsxp5LJbJfzwNvoG3G7IZ.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Lee Eun",
+                "Choi Won-jeong",
+                "Park Se-ki",
+                "Oh Min-jeong",
+                "Hong Kang-woo",
+                "Lee Gil-won",
+                "Kim I-dam",
+                "Han Ye-seo",
+                "Kim Min-seo"
+            ],
+            "director": "Park Soon-lee"
+        }
+    },
+    {
+        "pk": 762509,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 762509,
+            "title": "무파사: 라이온 킹",
+            "release_date": "2024-12-18",
+            "popularity": 175.007,
+            "vote_avg": 0.0,
+            "description": "길을 잃고 혼자가 된 새끼 사자 무파사는 광활한 야생을 떠돌던 중 왕의 혈통이자 예정된 후계자 타카와 우연히 만나게 된다. 마치 친형제처럼 끈끈한 우애를 나누며 함께 자란 무파사와 타카는 운명을 개척하기 위해 거대한 여정을 함께 떠난다. 한 치 앞을 알 수 없는 적들의 위협 속에서 두 형제의 끈끈했던 유대에 금이 가기 시작하고 예상치 못한 위기까지 맞닥뜨리게 되는데…",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1VUExee8iFohFTwYVi4IOArYyaM.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/c6nouvFYnmNO50WQDLcKMI3p0jA.jpg",
+            "genres": [
+                "모험",
+                "가족",
+                "드라마"
+            ],
+            "actors": [
+                "Aaron Pierre",
+                "Kelvin Harrison Jr.",
+                "Tiffany Boone",
+                "Kagiso Lediga",
+                "Preston Nyman",
+                "Mads Mikkelsen",
+                "Thandiwe Newton",
+                "Lennie James",
+                "Anika Noni Rose",
+                "Keith David"
+            ],
+            "director": "Barry Jenkins"
+        }
+    },
+    {
+        "pk": 1069537,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1069537,
+            "title": "힘을 낼 시간",
+            "release_date": "2024-12-18",
+            "popularity": 2.27,
+            "vote_avg": 0.0,
+            "description": "평균 나이 약 26살! 전 재산은 98만 원? 우리는 시끌벅적한 여행을 계획했다! 주목받지 못해 은퇴한 아이돌 러브앤리즈의 수민과 사랑, 파이브 갓 차일드의 태희. 어디로 가야 할지 무엇을 해야 할지 알 수 없지만 학창 시절에 갈 수 없었던 수학여행을 뒤늦게 떠나 보기로 하는데...",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uNwVatdF0mQDw5EjyFpnBgY1UZY.jpg",
+            "backdrop_url": "https://image.tmdb.org/t/p/w500/vnbuhLIeD73T4Lp31SIq9lcGfUe.jpg",
+            "genres": [
+                "드라마"
+            ],
+            "actors": [
+                "Choi Sung-eun",
+                "Hyun Woo-seok",
+                "Ha Seo-yoon",
+                "Kang Chae-yun",
+                "Hong Sang-pyo"
+            ],
+            "director": "Namkoong Sun"
+        }
+    }
+]
